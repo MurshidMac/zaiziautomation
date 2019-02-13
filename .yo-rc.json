@@ -1,0 +1,35 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.zaizi.zaiziautomation"
+    },
+    "jhipsterVersion": "5.8.1",
+    "applicationType": "monolith",
+    "baseName": "zaiziautomation",
+    "packageName": "com.zaizi.zaiziautomation",
+    "packageFolder": "com/zaizi/zaiziautomation",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OTZkZmMwMDFhYjczN2RhZDQxYmUzNmM0YmNkYzQ1NWQ1NWY1YTY4ZDEyMjA5NTVmNmUyODkwMDhjZTYxNzU2ZjA5MGUzNWI5ZWM4ZDkzMjU4NDA3YWUyNmI5YTY3ZGE2OTAzMTI0YjAyMjFkYmQ3MjdkNDVmYjIzZjM0NTYyM2U=",
+    "clientFramework": "react",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
